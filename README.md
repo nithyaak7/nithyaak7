@@ -22,17 +22,40 @@ Resume:
 
 ----------------------------------
 
-## Tech Stack
+## 🛠 Tech Stack
 
-SQL • Python • R • PostgreSQL • Apache Superset • Power BI • Excel
+**Languages**
+- SQL
+- Python
+- R
+
+**Databases**
+- PostgreSQL
+- MySQL
+- Oracle
+
+**BI & Visualization**
+- Apache Superset
+- Power BI
+- Excel
+
+**Libraries**
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
 
 ------------------------------------
 
 ## Featured Projects
 
-- Recruitment Analytics Dashboard
-- Insurance Churn Analytics
-- EV Specs Analysis
-- Walmart Sales Dashboard
-- Google Play Store Analysis
+| Project                            | Description                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 📊 Recruitment Analytics Dashboard | Built an end-to-end recruitment data warehouse and six Apache Superset dashboards with SQL KPIs.            |
+| 🚗 Insurance Churn Analytics       | Designed a dimensional model, performed SQL-based data quality checks, and created Power BI visualizations. |
+| ⚡ EV Specs Analysis                | Applied hypothesis testing and K-Means clustering to analyze EV market segmentation.                        |
+| 🛒 Walmart Sales Dashboard         | Interactive Power BI dashboard analyzing sales performance and profitability.                               |
+| 📱 Google Play Store Analysis      | Explored app trends, ratings, installs, and category performance using Python.                              |
+
 ---------------------------------
