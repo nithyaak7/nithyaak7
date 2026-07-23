@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nithyaa 👋
 
-<!--
-**nithyaak7/nithyaak7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & BI Analyst
 
-Here are some ideas to get you started:
+I build dashboards, data models, and analytics solutions using SQL, Python, Apache Superset, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MS Candidate in Data Analytics Engineering @ Northeastern University
+
+🌐 Portfolio:
+https://nithyaak7.github.io/Data-Analyst-Portfolio
+
+📫 LinkedIn:
+https://www.linkedin.com/in/nithyaa-k/
+
+---
+
+## Tech Stack
+
+SQL • Python • R • PostgreSQL • Apache Superset • Power BI • Excel
+
+---
+
+## Featured Projects
+
+- Recruitment Analytics Dashboard
+- Insurance Churn Analytics
+- EV Specs Analysis
+- Walmart Sales Dashboard
+- Google Play Store Analysis
