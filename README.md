@@ -52,10 +52,10 @@ Resume:
 
 | Project                            | Description                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 📊 Recruitment Analytics Dashboard | Built an end-to-end recruitment data warehouse and six Apache Superset dashboards with SQL KPIs.            |
+| 📊 [Talent Acquisition Management System: Database Design & Analytics]([https://github.com/username/repository-name](https://github.com/nithyaak7/Talent-Acquisition-Management-System-Database-Design-Analytics]) | Built an end-to-end recruitment data warehouse and six Apache Superset dashboards with SQL KPIs.            |
 | 🚗 Insurance Churn Analytics       | Designed a dimensional model, performed SQL-based data quality checks, and created Power BI visualizations. |
-| ⚡ EV Specs Analysis                | Applied hypothesis testing and K-Means clustering to analyze EV market segmentation.                        |
-| 🛒 Walmart Sales Dashboard         | Interactive Power BI dashboard analyzing sales performance and profitability.                               |
-| 📱 Google Play Store Analysis      | Explored app trends, ratings, installs, and category performance using Python.                              |
+| ⚡ [EV Specs Analysis]([https://github.com/nithyaak7/ev-specs-data-analytics])                | Applied hypothesis testing and K-Means clustering to analyze EV market segmentation.                        |
+| 🛒 [Walmart Sales Dashboard]([https://github.com/nithyaak7/walmart-sales-dashboard])         | Interactive Power BI dashboard analyzing sales performance and profitability.                               |
+| 📱 [Google Play Store Analysis]([https://github.com/nithyaak7/play-store-analytics])      | Explored app trends, ratings, installs, and category performance using Python.                              |
 
 ---------------------------------
