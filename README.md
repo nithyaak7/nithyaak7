@@ -11,14 +11,13 @@ I work across the analytics stack — modeling data in SQL, analyzing it in Pyth
 
 🎓 MS Candidate in Data Analytics Engineering @ Northeastern University
 
-🌐 Portfolio:
-https://nithyaak7.github.io/Data-Analyst-Portfolio
+🌐 [Portfolio](https://nithyaak7.github.io/Data-Analyst-Portfolio/)
 
-📫 LinkedIn:
-https://www.linkedin.com/in/nithyaa-k/
+📫 [LinkedIn](https://www.linkedin.com/in/nithyaa-k/)
+
 
 Resume:
-(https://github.com/nithyaak7/nithyaak7/blob/main/asset/Nithyaa_Kesavamurthy_Resume.pdf)
+📄 [View My Resume](https://github.com/nithyaak7/nithyaak7/blob/main/asset/Nithyaa_Kesavamurthy_Resume.pdf)
 
 ----------------------------------
 
@@ -50,12 +49,12 @@ Resume:
 
 ## Featured Projects
 
-| Project                            | Description                                                                                                 |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 📊 Talent Acquisition Management System: Database Design & Analytics([https://github.com/nithyaak7/Talent-Acquisition-Management-System-Database-Design-Analytics]) | Built an end-to-end recruitment data warehouse and six Apache Superset dashboards with SQL KPIs.            |
-| 🚗 Insurance Churn Analytics       | Designed a dimensional model, performed SQL-based data quality checks, and created Power BI visualizations. |
-| ⚡ EV Specs Analysis([https://github.com/nithyaak7/ev-specs-data-analytics])                | Applied hypothesis testing and K-Means clustering to analyze EV market segmentation.                        |
-| 🛒 Walmart Sales Dashboard([https://github.com/nithyaak7/walmart-sales-dashboard])         | Interactive Power BI dashboard analyzing sales performance and profitability.                               |
-| 📱 Google Play Store Analysis([https://github.com/nithyaak7/play-store-analytics])      | Explored app trends, ratings, installs, and category performance using Python.                              |
+| Project | Description |
+|---|---|
+| [📊 Talent Acquisition Management System: Database Design & Analytics](https://github.com/nithyaak7/Talent-Acquisition-Management-System-Database-Design-Analytics) | Designed a normalized recruitment database using ER/UML modeling, MySQL, and MongoDB, with SQL analysis and Python visualizations. |
+| 🚗 Insurance Churn Analytics | Designed a dimensional model, performed SQL-based data quality checks, and created Power BI visualizations. |
+| [⚡ EV Specs Analysis](https://github.com/nithyaak7/ev-specs-data-analytics) | Applied hypothesis testing and K-Means clustering to analyze EV market segmentation. |
+| [🛒 Walmart Sales Dashboard](https://github.com/nithyaak7/walmart-sales-dashboard) | Interactive Power BI dashboard analyzing sales performance and profitability. |
+| [📱 Google Play Store Analysis](https://github.com/nithyaak7/play-store-analytics) | Explored app trends, ratings, installs, and category performance using Python. |
 
 ---------------------------------
